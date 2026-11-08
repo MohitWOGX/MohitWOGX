@@ -1,72 +1,60 @@
 <!--
   GitHub Profile README
-  Tip: this file should be named README.md in a repository with the same name as your GitHub username.
+  Replace the name or learning topics if you want to personalize them further.
 -->
 
 <div align="center">
 
-# Hey, I'm a Computer Engineering Student 👋
+```text
+       .--.                         dev@cloud-lab
+    .-(    ).                       ------------------------------
+   (___.__)__)                      PROFILE   Computer Engineering
+      /    \                        DOMAIN    Cloud Engineering
+   __/______\__                     FOCUS     AWS · DevOps · Backend
+  /  CLOUD LAB  \                   LEARNING  Linux · Docker · CI/CD
+  \____________/                   BUILDING  Practical cloud projects
+                                   MINDSET   Learn → Build → Improve
+                                   DIRECTION Cloud / Platform Engineer
+                                   STATUS    Always exploring
+```
 
-### Building the cloud behind the code.
+### Building beyond `it_works_on_my_machine`.
 
-<p>
-  <em>Exploring cloud engineering, backend development, and the systems that keep modern applications running.</em>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/FOCUS-Cloud%20Engineering-0A66C2?style=for-the-badge&labelColor=111827" alt="Focus: Cloud Engineering" />
-  <img src="https://img.shields.io/badge/LEARNING-Every%20Day-16A34A?style=for-the-badge&labelColor=111827" alt="Learning every day" />
-</p>
+*Learning cloud engineering by building, breaking, and improving real things.*
 
 </div>
 
 ---
 
-## `whoami` — A little about me
+## `$ whoami`
 
-I'm a Computer Engineering student interested in what happens beyond the code: how applications are deployed, how infrastructure is managed, and how systems stay reliable as they grow.
+I'm a Computer Engineering student interested in what happens behind the scenes of modern applications — the infrastructure, systems, and automation that keep them running.
 
-My main direction is **Cloud Engineering**. I'm building my foundation in AWS, Linux, DevOps, automation, and backend development through hands-on learning and practical projects.
+My main direction is **Cloud Engineering**, with a growing focus on AWS, DevOps, backend systems, and cloud-native development. I prefer learning through hands-on projects: understand the concept, build something with it, and learn from what breaks.
 
-I believe in learning by building, understanding the fundamentals, and getting better one project at a time.
+## `$ cat current_focus.txt`
 
-## `now` — What I'm up to
+- ☁️ **Cloud:** AWS fundamentals and cloud architecture
+- ⚙️ **DevOps:** Linux, Docker, CI/CD, and infrastructure automation
+- 💻 **Development:** Backend development and the foundations of full-stack applications
+- 🧩 **Problem solving:** Data Structures & Algorithms
 
-| | |
-|---|---|
-| 🔭 **Building** | Practical projects around cloud, backend development, and deployable applications |
-| 🌱 **Learning** | AWS, Linux, Docker, CI/CD, Infrastructure as Code, and Data Structures & Algorithms |
-| 🤝 **Collaborating** | Open to learning and contributing to cloud, DevOps, and backend-focused projects |
-| 🧭 **Exploring** | How real-world systems are designed, deployed, monitored, and scaled |
-| 💬 **Ask me about** | My learning journey, project ideas, and the fundamentals I'm exploring |
-| ⚡ **Fun fact** | I'm just as curious about what happens after `git push` as I am about writing the code |
+## `$ ./collaborate.sh`
 
-## `toolbox` — Technologies on my radar
+Interested in collaborating on beginner-friendly open-source work, cloud projects, developer tools, and backend applications. Always happy to learn from people who build and share what they know.
 
-<p>
-  <img src="https://img.shields.io/badge/AWS-Exploring-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900" alt="AWS" />
-  <img src="https://img.shields.io/badge/Linux-Learning-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
-  <img src="https://img.shields.io/badge/Docker-Learning-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Exploring-6E56CF?style=flat-square" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Exploring-0F766E?style=flat-square" alt="Infrastructure as Code" />
-</p>
+## `$ help --topics`
 
-<sub>These labels reflect my current learning focus, not a claim of professional expertise.</sub>
+Cloud computing · AWS fundamentals · Backend development · Engineering projects · Learning in public
 
-## `north_star` — Where I'm heading
+## `$ uptime`
 
-I'm working towards becoming a **Cloud Engineer**, with a long-term interest in cloud architecture. I want to develop the skills to design, build, deploy, and maintain infrastructure that is secure, reliable, and scalable.
-
-## `connect` — Let's learn and build
-
-I'm always interested in connecting with developers, learning from the community, and collaborating on meaningful projects.
+Still learning. Still building. Still curious.
 
 ---
 
 <div align="center">
-  <sub>Curiosity → Consistency → Projects → Progress</sub>
-  <br />
-  <sub>Thanks for stopping by. Feel free to explore my repositories! ✨</sub>
+
+**`[ learn ]  →  [ build ]  →  [ break ]  →  [ debug ]  →  [ repeat ]`**
+
 </div>
